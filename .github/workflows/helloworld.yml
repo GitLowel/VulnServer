@@ -2,8 +2,8 @@ name: Hello World Test
 
 on:
   push:
-    branches: [ main ]
-  workflow_dispatch:
+    Branches : 
+      - main
 
 jobs:
   hello:
